@@ -1,14 +1,14 @@
 {
   "linux-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/ibm-dsx-desktop.AppImage",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "platform": "linux",
     "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
     "size": "71.6 MB"
   },
   "win32-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "platform": "win32",
     "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
     "size": "72.4 MB"
@@ -17,7 +17,7 @@
     "readme": "Ability to create and manage projects. Github integration to import and commit projects. Support for Apache Zeppelin notebooks.",
     "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/release.json",
     "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.0/IBM_DSX_Desktop-1.2.0.dmg",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "size": "73.6 MB"
   },
   "notebooks": {
